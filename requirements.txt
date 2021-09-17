@@ -3,7 +3,7 @@ torchvision
 streamlit 
 tqdm
 matplotlib
-numpy 
-pickle
-imutils 
-
+numpy
+imutils
+faiss-cpu
+# pickle
